@@ -13,5 +13,5 @@ Here are some ideas to get you started:
   <a href="https://www.java.com/es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
   <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/> </a>
   <a href="https://www.oracle.com/ar/index.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" width="40" height="40"/> </a>
-  <a href="https://powerbi.microsoft.com/es-es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="80" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/es-es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
 </p>
