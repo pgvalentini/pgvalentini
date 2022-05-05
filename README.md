@@ -11,7 +11,10 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.java.com/es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.html" alt="Java" width="40" height="40"/> </a>
   <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/> </a>
+  <a href="https://www.npmjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node.js" width="40" height="60"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="  https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="60" height="40"/> </a>
   <a href="https://www.oracle.com/ar/index.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" width="60" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/es-es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
 </p>
